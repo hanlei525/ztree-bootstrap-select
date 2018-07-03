@@ -1,0 +1,34 @@
+.list1{
+    height: 30px;
+    width: 600px;
+}
+div.list2{
+    width: 400px;
+    display:block;
+    margin:0 auto;
+}
+.title2{
+    float: left;
+}
+.title .select1{
+    width: 120px;
+    height: 25px;
+}
+.bootstrap-select > .dropdown-toggle.bs-placeholder{
+    width: 120px;
+    height: 25px;
+}
+button .btn .dropdown-toggle .btn-default{
+    width: 120px;
+    height: 25px;
+}
+@media (min-width: 768px) {
+    .form-inline .control-label {
+        margin-bottom: 0;
+        vertical-align: middle;
+        width: 100px;
+    }
+}
+.btn-group .btn .pull-left{
+    margin-top: -4px;
+}
